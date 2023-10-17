@@ -67,7 +67,6 @@ header > p{
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 20px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.301);
 }
@@ -87,7 +86,7 @@ nav > a{
     padding: 10px;
     border-radius: 5px;
     transition-duration: .5s;
-    min-width: 670px;
+
 }
 
 nav > a:hover{
